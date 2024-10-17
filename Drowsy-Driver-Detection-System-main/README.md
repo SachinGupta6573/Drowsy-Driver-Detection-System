@@ -57,7 +57,7 @@ Contributions to this project are welcome! If you encounter any issues or have s
 
 ## Contact
 
-For any inquiries or questions, please contact indrajeetsharma2001@gmail.com.
+For any inquiries or questions, please contact guptasachin.6573@gmail.com.
 
 Feel free to customize this README to provide additional information or make it more specific to your project.
 
